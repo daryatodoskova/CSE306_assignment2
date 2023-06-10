@@ -6,3 +6,10 @@ This project includes the following :
 - Extending this to a Power diagram (Sec. 4.4.3, lab 7).
 - Optimizing the weights of the power diagram using LBFGS (Sec 4.4.4, lab 7)
 
+TO COMPILE :
+
+'''
+g++ main.cpp -o main -std=c++11
+
+./main
+'''
